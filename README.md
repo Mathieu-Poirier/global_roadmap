@@ -6,6 +6,6 @@ This is a project to catalogue my software engineering journey!
 [Good Data Science Roadmap](https://i.am.ai/roadmap/)
 
 # Work in Progress!
- - [] Learning Matrices and Linear Algebra Fundamentals
- - [] Database Basics
+ -[] Learning Matrices and Linear Algebra Fundamentals
+ -[] Database Basics
 
